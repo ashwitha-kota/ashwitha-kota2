@@ -1,3 +1,6 @@
+
+
+
 This Java code represents a simple grading system that takes user input to gather information about a specified number of students, including their names and scores. It utilizes the Student class, presumably defined elsewhere, to create an array of student objects.
 
 The program prompts the user to input the number of students and then iterates through a loop to collect each student’s name and score. 
